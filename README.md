@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Roe Bien Pedragosa Arnaiz</h1>
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" height="1000" width="450"/>
+  <img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="300" width="1200"/>
 </div>
 
 <h3 align="center">A passionate NEET from Philippines</h3>
